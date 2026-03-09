@@ -1,0 +1,240 @@
+﻿excl_rf,Player,Position,Age,value_m_euro,price_m_euro,pricemvalue_difference_m,departing_league,departing_club,arriving_league,arriving_club,player_id,country_of_citizenship,country_of_birth,foot,height_in_cm,season,release_clause,months_remaining_contract
+1,Neymar,Attacking Midfield,25,100,222,-122, LaLiga,Barcelona, Ligue 1,PSG,68290,Brazil,Brazil,Right,175,17/18,1,47
+2,Kylian Mbappe,Centre-Forward,19,120,180,-60, Ligue 1,Monaco, Ligue 1,PSG,342229,France,France,Right,178,18/19,0,19
+3,Ousmane Dembele,Centre-Forward,20,33,148,-115, Bundesliga,Dortmund, LaLiga,Barcelona,288230,France,France,Both,178,17/18,0,46
+4,Alexander Isak,Centre-Forward,25,120,145,-25, Premier League,Newcastle, Premier League,Liverpool,349066,Sweden,Sweden,Right,192,25/26,0,36
+5,Philippe Coutinho,Attacking Midfield,25,90,135,-45, Premier League,Liverpool, LaLiga,Barcelona,80444,Brazil,Brazil,Right,172,17/18,0,53
+6,Joao Felix,Centre-Forward,19,70,127.2,-57.2, Liga NOS,Benfica, LaLiga,Atlético,462250,Portugal,Portugal,Right,181,19/20,1,36
+7,Jude Bellingham,Attacking Midfield,20,120,127,-7, Bundesliga,Dortmund, LaLiga,Real Madrid,581678,England,England,Right,186,23/24,0,24
+8,Florian Wirtz,Attacking Midfield,22,140,125,15, Bundesliga,Leverkusen, Premier League,Liverpool,598577,Germany,Germany,Right,176,25/26,0,24
+9,Enzo Fernandez,Central Midfield,22,55,121,-66, Liga Portugal,Benfica, Premier League,Chelsea,648195,Argentina,Argentina,Right,178,22/23,1,64
+10,Eden Hazard,Left Winger,28,150,120.8,29.2, Premier League,Chelsea, LaLiga,Real Madrid,50202,Belgium,Belgium,Right,175,19/20,0,12
+11,Antoine Griezmann,Centre-Forward,28,130,120,10, LaLiga,Atlético, LaLiga,Barcelona,125781,France,France,Left,176,19/20,1,48
+12,Jack Grealish,Left Winger,25,65,117.5,-52.5, Premier League,Aston Villa, Premier League,Man City,203460,England,England,Right,180,21/22,1,46
+13,Cristiano Ronaldo,Centre-Forward,33,100,117,-17, LaLiga,Real Madrid, Serie A,Juventus,8198,Portugal,Portugal,Right,187,18/19,0,35
+14,Declan Rice,Central Midfield,24,90,116.6,-26.6, Premier League,West Ham, Premier League,Arsenal,357662,England,England,Right,188,23/24,0,12
+15,Moises Caicedo,Defensive Midfield,21,75,116,-41, Premier League,Brighton, Premier League,Chelsea,687626,Ecuador,Ecuador,Right,178,23/24,0,50
+16,Romelu Lukaku,Centre-Forward,28,100,113,-13, Serie A,Inter, Premier League,Chelsea,96341,Belgium,Belgium,Left,191,21/22,0,24
+17,Paul Pogba,Central Midfield,23,70,105,-35, Serie A,Juventus, Premier League,Man Utd,122153,France,France,Both,191,16/17,0,36
+18,Gareth Bale,Right Winger,24,65,101,-36, Premier League,Tottenham, LaLiga,Real Madrid,39381,Wales,Wales,Left,186,13/14,0,36
+19,Kai Havertz,Centre-Forward,21,81,100,-19, Bundesliga,Leverkusen, Premier League,Chelsea,309400,Germany,Germany,Left,193,20/21,0,24
+20,Hugo Ekitike,Centre-Forward,23,75,95,-20, Bundesliga,Frankfurt, Premier League,Liverpool,709726,France,France,Right,189,25/26,0,17
+21,Harry Kane,Centre-Forward,30,90,95,-5, Premier League,Tottenham, Bundesliga,Bayern Munich,132098,England,England,Right,188,23/24,0,12
+22,Randal Kolo Muani,Centre-Forward,24,80,95,-15, Bundesliga,Frankfurt, Ligue 1,PSG,487969,France,France,Right,187,23/24,0,48
+23,Antony,Right Winger,22,35,95,-60, Eredivisie,Ajax, Premier League,Man Utd,602105,Brazil,Brazil,Left,172,22/23,0,34
+24,Cristiano Ronaldo,Centre-Forward,24,60,94,-34, Premier League,Man Utd, LaLiga,Real Madrid,8198,Portugal,Portugal,Right,187,09 10,0,36
+25,Josko Gvardiol,Centre-Back,21,75,90,-15, Bundesliga,Leipzig, Premier League,Man City,475959,Croatia,Croatia,Left,185,23/24,0,46
+26,Neymar,Attacking Midfield,31,60,90,-30, Ligue 1,PSG, Saudi Pro League,Al-Hilal,68290,Brazil,Brazil,Right,175,23/24,0,22
+27,Gonzalo Higuain,Centre-Forward,28,65,90,-25, Serie A,Napoli, Serie A,Juventus,39153,Argentina,France,Right,184,16/17,1,24
+28,Neymar,Attacking Midfield,21,50,88,-38, Série A,Santos, LaLiga,Barcelona,68290,Brazil,Brazil,Right,175,13/14,0,12
+29,Harry Maguire,Centre-Back,26,50,87,-37, Premier League,Leicester, Premier League,Man Utd,177907,England,England,Right,194,19/20,0,46
+30,Frenkie de Jong,Central Midfield,22,85,86,-1, Eredivisie,Ajax, LaLiga,Barcelona,326330,Netherlands,Netherlands,Right,181,19/20,0,6
+31,Matthijs de Ligt,Centre-Back,19,75,85.5,-10.5, Eredivisie,Ajax, Serie A,Juventus,326031,Netherlands,Netherlands,Right,189,19/20,0,12
+32,Darwin Nunez,Centre-Forward,23,55,85,-30, Liga Portugal,Benfica, Premier League,Liverpool,546543,Uruguay,Uruguay,Right,187,22/23,0,36
+33,Jadon Sancho,Left Winger,21,100,85,15, Bundesliga,Dortmund, Premier League,Man Utd,401173,England,England,Right,180,21/22,0,24
+34,Romelu Lukaku,Centre-Forward,24,50,84.7,-34.7, Premier League,Everton, Premier League,Man Utd,96341,Belgium,Belgium,Left,191,17/18,0,24
+35,Virgil van Dijk,Centre-Back,26,30,84.65,-54.65, Premier League,Southampton, Premier League,Liverpool,139208,Netherlands,Netherlands,Right,193,17/18,0,54
+36,Dusan Vlahovic,Centre-Forward,22,70,83.5,-13.5, Serie A,Fiorentina, Serie A,Juventus,357498,Serbia,Yugoslavia (Republic),Left,190,21/22,0,18
+37,Luis Suarez,Centre-Forward,27,52,81.72,-29.72, Premier League,Liverpool, LaLiga,Barcelona,44352,Uruguay,Uruguay,Right,182,14/15,0,48
+38,Arthur Melo,Central Midfield,24,56,80.6,-24.6, LaLiga,Barcelona, Serie A,Juventus,362842,Brazil,Brazil,Right,172,20/21,0,48
+39,Wesley Fofana,Centre-Back,21,40,80.4,-40.4, Premier League,Leicester, Premier League,Chelsea,475411,France,France,Right,186,22/23,0,60
+40,Aurelien Tchouameni,Defensive Midfield,22,60,80,-20, Ligue 1,Monaco, LaLiga,Real Madrid,413112,France,France,Right,187,22/23,0,24
+41,Lucas Hernandez,Left-Back,23,70,80,-10, LaLiga,Atlético, Bundesliga,Bayern Munich,281963,France,France,Left,184,19/20,1,15
+42,Nicolas Pepe,Right Winger,24,65,80,-15, Ligue 1,Lille, Premier League,Arsenal,343052,Cote d'Ivoire,France,Left,183,19/20,0,24
+43,Kepa Arrizabalaga,Goalkeeper,23,20,80,-60, LaLiga,Athletic Club, Premier League,Chelsea,192279,Spain,Spain,Right,186,18/19,1,84
+44,Victor Osimhen,Centre-Forward,21,40,78.9,-38.9, Ligue 1,Lille, Serie A,Napoli,401923,Nigeria,Nigeria,Right,186,20/21,0,48
+45,Rasmus Hojlund,Centre-Forward,20,45,77.8,-32.8, Serie A,Atalanta, Premier League,Man Utd,610442,Denmark,Denmark,Left,191,23/24,0,48
+46,Alexander Isak,Centre-Forward,22,30,77.5,-47.5, LaLiga,Real Sociedad, Premier League,Newcastle,349066,Sweden,Sweden,Right,192,22/23,0,46
+48,Jhon Duran,Centre-Forward,21,40,77,-37, Premier League,Aston Villa, Saudi Pro League,Al-Nassr,649317,Colombia,Colombia,Left,185,24/25,0,66
+49,Benjamin Sesko,Centre-Forward,22,70,76.5,-6.5, Bundesliga,Leipzig, Premier League,Man Utd,627442,Slovenia,Slovenia,Right,195,25/26,0,48
+50,Kevin De Bruyne,Attacking Midfield,24,45,76,-31, Bundesliga,Wolfsburg, Premier League,Man City,88755,Belgium,Belgium,Right,181,15/16,0,36
+51,Victor Osimhen,Centre-Forward,26,70,75,-5, Serie A,Napoli, Süper Lig,Galatasaray,401923,Nigeria,Nigeria,Right,186,25/26,1,17
+52,Bryan Mbeumo,Centre-Forward,25,55,75,-20, Premier League,Brentford, Premier League,Man Utd,413039,Cameroon,France,Left,171,25/26,0,12
+53,Nick Woltemade,Centre-Forward,23,30,75,-45, Bundesliga,Stuttgart, Premier League,Newcastle,455661,Germany,Germany,Right,198,25/26,0,36
+54,Julian Alvarez,Centre-Forward,24,90,75,15, Premier League,Man City, LaLiga,Atlético,576024,Argentina,Argentina,Right,170,24/25,0,48
+55,Omar Marmoush,Centre-Forward,25,60,75,-15, Bundesliga,Frankfurt, Premier League,Man City,445939,Egypt,Egypt,Right,183,24/25,0,18
+56,Kai Havertz,Centre-Forward,24,55,75,-20, Premier League,Chelsea, Premier League,Arsenal,309400,Germany,Germany,Left,193,23/24,0,24
+57,James Rodriguez,Attacking Midfield,23,60,75,-15, Ligue 1,Monaco, LaLiga,Real Madrid,88103,Colombia,Colombia,Left,181,14/15,0,48
+58,Angel Di Maria,Right Winger,26,50,75,-25, LaLiga,Real Madrid, Premier League,Man Utd,45320,Argentina,Argentina,Left,180,14/15,0,36
+59,Matheus Cunha,Centre-Forward,26,60,74.2,-14.2, Premier League,Wolves, Premier League,Man Utd,517894,Brazil,Brazil,Right,183,25/26,0,48
+60,Romelu Lukaku,Centre-Forward,26,75,74,1, Premier League,Man Utd, Serie A,Inter,96341,Belgium,Belgium,Left,191,19/20,0,36
+61,Alisson,Goalkeeper,25,60,72.5,-12.5, Serie A,Roma, Premier League,Liverpool,105470,Brazil,Brazil,Right,193,18/19,0,36
+62,Antoine Semenyo,Right Winger,26,65,72,-7, Premier League,Bournemouth, Premier League,Man City,583255,Ghana,England,Right,185,25/26,0,54
+63,Thomas Lemar,Attacking Midfield,22,65,72,-7, Ligue 1,Monaco, LaLiga,Atlético,205562,France,Guadeloupe,Left,171,18/19,0,24
+64,Ruben Dias,Centre-Back,23,35,71.6,-36.6, Liga NOS,Benfica, Premier League,Man City,258004,Portugal,Portugal,Right,187,20/21,0,34
+65,Casemiro,Defensive Midfield,30,40,70.65,-30.65, LaLiga,Real Madrid, Premier League,Man Utd,16306,Brazil,Brazil,Right,185,22/23,0,36
+66,Luis Diaz,Left Winger,28,70,70,0, Premier League,Liverpool, Bundesliga,Bayern Munich,480692,Colombia,Colombia,Right,180,25/26,0,24
+67,Martin Zubimendi,Defensive Midfield,26,60,70,-10, LaLiga,Real Sociedad, Premier League,Arsenal,423440,Spain,Spain,Right,181,25/26,0,24
+68,Khvicha Kvaratskhelia,Left Winger,23,85,70,15, Serie A,Napoli, Ligue 1,PSG,502670,Georgia,Georgia,Both,183,24/25,0,30
+69,Dominik Szoboszlai,Attacking Midfield,22,50,70,-20, Bundesliga,Leipzig, Premier League,Liverpool,451276,Hungary,Hungary,Right,187,23/24,1,24
+70,Mykhaylo Mudryk,Left Winger,22,40,70,-30, Premier Liga,Shakhtar D., Premier League,Chelsea,537860,Ukraine,Ukraine,Right,175,22/23,0,47
+71,Rodri,Defensive Midfield,23,80,70,10, LaLiga,Atlético, Premier League,Man City,8163,Spain,Spain,Right,185,19/20,0,48
+72,Zlatan Ibrahimovic,Centre-Forward,27,45,69.5,-24.5, Serie A,Inter, LaLiga,Barcelona,3455,Sweden,Sweden,Right,195,09 10,0,47
+73,Eberechi Eze,Attacking Midfield,27,55,69.3,-14.3, Premier League,Crystal Palace, Premier League,Arsenal,479999,England,England,Right,178,25/26,0,24
+74,Mateo Retegui,Centre-Forward,26,45,68.25,-23.25, Serie A,Atalanta, Saudi Pro League,Al-Qadsiah,554903,Italy,Italy,Right,186,25/26,0,40
+75,Achraf Hakimi,Right-Back,22,60,68,-8, Serie A,Inter, Ligue 1,PSG,398073,Morocco,Spain,Right,181,21/22,0,48
+76,Riyad Mahrez,Right Winger,27,50,67.8,-17.8, Premier League,Leicester, Premier League,Man City,171424,Algeria,France,Left,179,18/19,0,24
+77,Mason Mount,Attacking Midfield,24,60,67.7,-7.7, Premier League,Chelsea, Premier League,Man Utd,346483,England,England,Right,181,23/24,0,12
+78,Matthijs de Ligt,Centre-Back,22,70,67,3, Serie A,Juventus, Bundesliga,Bayern Munich,326031,Netherlands,Netherlands,Right,189,22/23,0,24
+79,Kaka,Attacking Midfield,27,55,67,-12, Serie A,AC Milan, LaLiga,Real Madrid,3366,Brazil,Brazil,Both,186,09 10,0,24
+80,Viktor Gyokeres,Centre-Forward,27,75,66.9,8.1, Liga Portugal,Sporting, Premier League,Arsenal,325443,Sweden,Sweden,Right,189,25/26,0,24
+81,Alvaro Morata,Centre-Forward,24,40,66,-26, LaLiga,Real Madrid, Premier League,Chelsea,128223,Spain,Spain,Right,189,17/18,0,35
+82,Joao Neves,Central Midfield,19,55,65.92,-10.92, Liga Portugal,Benfica, Ligue 1,PSG,670681,Portugal,Portugal,Right,174,24/25,0,46
+83,Marc Cucurella,Left-Back,24,28,65.3,-37.3, Premier League,Brighton, Premier League,Chelsea,284857,Spain,Spain,Left,173,22/23,0,48
+84,Xavi Simons,Attacking Midfield,22,70,65,5, Bundesliga,Leipzig, Premier League,Tottenham,566931,Netherlands,Netherlands,Right,179,25/26,0,23
+85,Goncalo Ramos,Centre-Forward,22,50,65,-15, Liga Portugal,Benfica, Ligue 1,PSG,550550,Portugal,Portugal,Right,185,23/24,0,22
+86,Bruno Fernandes,Attacking Midfield,25,60,65,-5, Liga NOS,Sporting, Premier League,Man Utd,240306,Portugal,Portugal,Right,179,19/20,0,41
+87,Joao Cancelo,Right-Back,25,55,65,-10, Serie A,Juventus, Premier League,Man City,182712,Portugal,Portugal,Right,182,19/20,0,47
+88,Aymeric Laporte,Centre-Back,23,25,65,-40, LaLiga,Athletic Club, Premier League,Man City,176553,Spain,France,Left,189,17/18,0,29
+89,Edinson Cavani,Centre-Forward,26,55,64.5,-9.5, Serie A,Napoli, Ligue 1,PSG,48280,Uruguay,Uruguay,Right,184,13/14,0,48
+90,Dominic Solanke,Centre-Forward,26,40,64.3,-24.3, Premier League,Bournemouth, Premier League,Tottenham,258889,England,England,Right,186,24/25,0,36
+91,Christian Pulisic,Right Winger,20,50,64,-14, Bundesliga,Dortmund, Premier League,Chelsea,315779,United States,United States,Right,177,18/19,0,18
+92,Mohammed Kudus,Right Winger,24,45,63.8,-18.8, Premier League,West Ham, Premier League,Tottenham,543499,Ghana,Ghana,Left,177,25/26,0,36
+93,Pierre-Emerick Aubameyang,Centre-Forward,28,65,63.75,1.25, Bundesliga,Dortmund, Premier League,Arsenal,58864,Gabon,France,Right,186,17/18,0,30
+94,Joao Pedro,Centre-Forward,23,50,63.7,-13.7, Premier League,Brighton, Premier League,Chelsea,235568,Portugal,Portugal,Right,177,25/26,0,30
+95,Raheem Sterling,Right Winger,20,40,63.7,-23.7, Premier League,Liverpool, Premier League,Man City,134425,England,Jamaica,Right,170,15/16,0,24
+96,Jeremy Jacquet,Centre-Back,20,20,63.6,-43.6,Ligue 1,Stade Rennais,Premier League,Liverpool,1004301,France,France,Right,188,26/27,0,42
+97,Ilya Zabarnyi,Centre-Back,22,42,63,-21, Premier League,Bournemouth, Ligue 1,PSG,659089,Ukraine,Ukraine,Right,189,25/26,0,46
+98,Luka Jovic,Centre-Forward,21,60,63,-3, Bundesliga,Frankfurt, LaLiga,Real Madrid,257462,Serbia,Serbia,Right,181,19/20,0,48
+99,Angel Di Maria,Right Winger,27,50,63,-13, Premier League,Man Utd, Ligue 1,PSG,45320,Argentina,Argentina,Left,180,15/16,0,36
+100,Dean Huijsen,Centre-Back,20,60,62.5,-2.5, Premier League,Bournemouth, LaLiga,Real Madrid,890290,Spain,Netherlands,Right,195,25/26,0,60
+101,Romeo Lavia,Defensive Midfield,19,32,62.1,-30.1, Championship,Southampton, Premier League,Chelsea,628451,Belgium,Belgium,Right,181,23/24,0,48
+102,Leny Yoro,Centre-Back,18,50,62,-12, Ligue 1,Lille, Premier League,Man Utd,923831,France,France,Right,190,24/25,0,12
+103,Matheus Nunes,Right-Back,25,45,62,-17, Premier League,Wolves, Premier League,Man City,601883,Portugal,Brazil,Right,183,23/24,0,12
+104,Tanguy Ndombele,Central Midfield,22,65,62,3, Ligue 1,Lyon, Premier League,Tottenham,450936,France,France,Right,181,19/20,0,48
+105,Anthony Elanga,Right Winger,23,42,61.4,-19.4, Premier League,Nott'm Forest, Premier League,Newcastle,583189,Sweden,Sweden,Right,178,25/26,0,36
+106,Sandro Tonali,Defensive Midfield,23,50,60.8,-10.8, Serie A,AC Milan, Premier League,Newcastle,397033,Italy,Italy,Right,181,23/24,0,48
+107,Moussa Diaby,Right Winger,25,55,60,-5, Premier League,Aston Villa, Saudi Pro League,Al-Ittihad,395516,France,France,Left,170,24/25,0,48
+108,Pedro Neto,Right Winger,24,55,60,-5, Premier League,Wolves, Premier League,Chelsea,487465,Portugal,Portugal,Left,172,24/25,0,34
+109,Nico Gonzalez,Defensive Midfield,23,18,60,-42, Liga Portugal,Porto, Premier League,Man City,466805,Spain,Spain,Right,188,24/25,0,41
+110,Christopher Nkunku,Centre-Forward,25,80,60,20, Bundesliga,Leipzig, Premier League,Chelsea,344381,France,France,Right,178,23/24,1,36
+111,Manuel Ugarte,Defensive Midfield,22,50,60,-10, Liga Portugal,Sporting, Ligue 1,PSG,476701,Uruguay,Uruguay,Right,182,23/24,0,36
+112,Otavio,Attacking Midfield,28,35,60,-25, Liga Portugal,Porto, Saudi Pro League,Al-Nassr,231289,Portugal,Brazil,Right,172,23/24,0,22
+113,Malcom,Right Winger,26,30,60,-30, Premier Liga,Zenit S-Pb, Saudi Pro League,Al-Hilal,323704,Brazil,Brazil,Left,171,23/24,0,48
+114,Jeremy Doku,Left Winger,21,28,60,-32, Ligue 1,Stade Rennais, Premier League,Man City,486049,Belgium,Belgium,Right,173,23/24,0,24
+115,Erling Haaland,Centre-Forward,21,150,60,90, Bundesliga,Dortmund, Premier League,Man City,418560,Norway,England,Left,195,22/23,1,12
+116,Miralem Pjanic,Central Midfield,30,45,60,-15, Serie A,Juventus, LaLiga,Barcelona,44162,Bosnia-Herzegovina,Jugoslawien (SFR),Right,178,20/21,0,36
+117,Naby Keita,Central Midfield,23,65,60,5, Bundesliga,Leipzig, Premier League,Liverpool,302215,Guinea,Guinea,Right,172,18/19,0,10
+118,Diego Costa,Centre-Forward,29,50,60,-10, Premier League,Chelsea, LaLiga,Atlético,44779,Spain,Brazil,Right,186,17/18,0,24
+119,Oscar,Attacking Midfield,25,35,60,-25, Premier League,Chelsea, Super League,SH SIPG,85314,Brazil,Brazil,Right,179,16/17,0,30
+120,Anthony Martial,Centre-Forward,19,8,60,-52, Ligue 1,Monaco, Premier League,Man Utd,182877,France,France,Right,181,15/16,0,47
+122,Amadou Onana,Defensive Midfield,22,50,59.35,-9.35, Premier League,Everton, Premier League,Aston Villa,485706,Belgium,Senegal,Right,195,24/25,0,37
+123,Fred,Central Midfield,25,32,59,-27, Premier Liga,Shakhtar D., Premier League,Man Utd,191614,Brazil,Brazil,Left,169,18/19,0,12
+124,Ben White,Right-Back,23,28,58.5,-30.5, Premier League,Brighton, Premier League,Arsenal,335721,England,England,Right,186,21/22,0,36
+125,Fernando Torres,Centre-Forward,26,50,58.5,-8.5, Premier League,Liverpool, Premier League,Chelsea,7767,Spain,Spain,Right,186,09 10,0,30
+126,Teun Koopmeiners,Attacking Midfield,26,50,58.4,-8.4, Serie A,Atalanta, Serie A,Juventus,360518,Netherlands,Netherlands,Left,183,24/25,0,22
+127,Richarlison,Centre-Forward,25,48,58,-10, Premier League,Everton, Premier League,Tottenham,378710,Brazil,Brazil,Right,184,22/23,0,24
+128,Raphinha,Left Winger,25,45,58,-13, Premier League,Leeds, LaLiga,Barcelona,411295,Brazil,Brazil,Left,176,22/23,0,24
+129,Yoane Wissa,Centre-Forward,29,32,57.7,-25.7, Premier League,Brentford, Premier League,Newcastle,388165,DR Congo,France,Right,180,25/26,0,12
+130,Benjamin Mendy,Left-Back,23,13,57.5,-44.5, Ligue 1,Monaco, Premier League,Man City,157495,France,France,Left,185,17/18,0,47
+131,Lisandro Martinez,Centre-Back,24,32,57.37,-25.37, Eredivisie,Ajax, Premier League,Man Utd,480762,Argentina,Argentina,Left,175,22/23,0,35
+132,Jorginho,Defensive Midfield,26,50,57,-7, Serie A,Napoli, Premier League,Chelsea,112985,Portugal,Portugal,Right,179,18/19,0,24
+134,Raheem Sterling,Right Winger,27,70,56.2,13.8, Premier League,Man City, Premier League,Chelsea,134425,England,Jamaica,Right,170,22/23,0,12
+135,Jamie Gittens,Left Winger,20,50,56,-6, Bundesliga,Dortmund, Premier League,Chelsea,670882,England,England,Right,177,25/26,0,24
+136,Noni Madueke,Right Winger,23,40,56,-16, Premier League,Chelsea, Premier League,Arsenal,503987,England,England,Left,182,25/26,0,72
+137,Hulk,Centre-Forward,29,32,56,-24, Premier Liga,Zenit S-Pb, Super League,SH SIPG,80562,Brazil,Brazil,Left,180,16/17,0,36
+138,John Stones,Centre-Back,22,28,55.6,-27.6, Premier League,Everton, Premier League,Man City,186590,England,England,Right,188,16/17,0,36
+139,Dani Olmo,Attacking Midfield,26,60,55,5, Bundesliga,Leipzig, LaLiga,Barcelona,293385,Spain,Spain,Right,179,24/25,0,34
+140,Moussa Diaby,Right Winger,24,50,55,-5, Bundesliga,Leverkusen, Premier League,Aston Villa,395516,France,France,Left,170,23/24,0,24
+141,Ruben Neves,Defensive Midfield,26,40,55,-15, Premier League,Wolves, Saudi Pro League,Al-Hilal,225161,Portugal,Portugal,Right,180,23/24,0,12
+142,Brennan Johnson,Right Winger,22,38,55,-17, Premier League,Nott'm Forest, Premier League,Tottenham,470607,Wales,England,Right,179,23/24,0,34
+143,Ferran Torres,Centre-Forward,21,45,55,-10, Premier League,Man City, LaLiga,Barcelona,398184,Spain,Spain,Right,182,21/22,0,16
+144,Aaron Wan-Bissaka,Right-Back,21,35,55,-20, Premier League,Crystal Palace, Premier League,Man Utd,477758,England,England,Right,183,19/20,0,36
+145,Tijjani Reijnders,Central Midfield,26,50,54.9,-4.9, Serie A,AC Milan, Premier League,Man City,460939,Netherlands,Netherlands,Right,185,25/26,0,60
+146,Antoine Griezmann,Centre-Forward,23,30,54,-24, LaLiga,Real Sociedad, LaLiga,Atlético,125781,France,France,Left,176,14/15,0,12
+147,Darwin Nunez,Centre-Forward,26,45,53,-8, Premier League,Liverpool, Saudi Pro League,Al-Hilal,546543,Uruguay,Uruguay,Right,187,25/26,0,24
+148,Michael Olise,Right Winger,22,55,53,2, Premier League,Crystal Palace, Bundesliga,Bayern Munich,566723,France,England,Left,184,24/25,0,37
+149,Timo Werner,Centre-Forward,24,64,53,11, Bundesliga,Leipzig, Premier League,Chelsea,170527,Germany,Germany,Right,180,20/21,0,36
+150,Alexandre Lacazette,Centre-Forward,26,40,53,-13, Ligue 1,Lyon, Premier League,Arsenal,93720,France,France,Right,176,17/18,0,24
+152,Kyle Walker,Right-Back,27,30,52.7,-22.7, Premier League,Tottenham, Premier League,Man City,95424,England,England,Right,183,17/18,0,23
+153,Aleksandar Mitrovic,Centre-Forward,28,28,52.6,-24.6, Premier League,Fulham, Saudi Pro League,Al-Hilal,51152,Serbia,Serbia,Right,189,23/24,0,36
+154,Gabriel Jesus,Centre-Forward,25,50,52.2,-2.2, Premier League,Man City, Premier League,Arsenal,363205,Brazil,Brazil,Right,175,22/23,0,12
+155,Piero Hincapie,Centre-Back,24,50,52,-2,Bundesliga,Leverkusen,Premier League,Arsenal,659813,Ecuador,Ecuador,Left,183,26/27,0,48
+156,Joao Felix,Centre-Forward,24,0,52,-52, LaLiga,Atlético, Premier League,Chelsea,462250,Portugal,Portugal,Right,181,24/25,0,54
+157,Cristian Romero,Centre-Back,24,48,52,-4, Serie A,Atalanta, Premier League,Tottenham,355915,Argentina,Argentina,Right,185,22/23,0,60
+158,Leroy Sane,Right Winger,20,30,52,-22, Bundesliga,FC Schalke 04, Premier League,Man City,192565,Germany,Germany,Left,183,16/17,0,11
+159,Douglas Luiz,Central Midfield,26,70,51.5,18.5, Premier League,Aston Villa, Serie A,Juventus,447661,Brazil,Brazil,Right,177,24/25,0,12
+160,Joao Palhinha,Defensive Midfield,29,55,51,4, Premier League,Fulham, Bundesliga,Bayern Munich,257455,Portugal,Portugal,Right,190,24/25,0,48
+161,Geovany Quenda,Right Winger,19,45,50.78,-5.78, Portugal,Sporting, England,Chelsea,1138758,Portugal,Portugal,Left,172,26/27,0,15
+162,Andre Onana,Goalkeeper,27,35,50.2,-15.2, Serie A,Inter, Premier League,Man Utd,234509,Cameroon,Cameroon,Right,190,23/24,0,12
+163,Ben Chilwell,Left-Back,23,40,50.2,-10.2, Premier League,Leicester, Premier League,Chelsea,316125,England,England,Left,180,20/21,0,46
+164,Alvaro Carreras,Left-Back,22,35,50,-15, Liga Portugal,Benfica, LaLiga,Real Madrid,811778,Spain,Spain,Left,186,25/26,0,18
+165,Xavi Simons,Attacking Midfield,21,80,50,30, Ligue 1,PSG, Bundesliga,Leipzig,566931,Netherlands,Netherlands,Right,179,24/25,0,11
+166,Manuel Ugarte,Defensive Midfield,23,45,50,-5, Ligue 1,PSG, Premier League,Man Utd,476701,Uruguay,Uruguay,Right,182,24/25,0,46
+167,Desire Doue,Right Winger,19,30,50,-20, Ligue 1,Stade Rennais, Ligue 1,PSG,914562,France,France,Right,181,24/25,0,10
+168,Galeno,Left Winger,27,27,50,-23, Liga Portugal,Porto, Saudi Pro League,Al-Ahli,454121,Brazil,Brazil,Right,179,24/25,0,41
+169,Min-jae Kim,Centre-Back,26,60,50,10, Serie A,Napoli, Bundesliga,Bayern Munich,503482,"Korea, South","Korea, South",Right,190,23/24,1,24
+170,Ousmane Dembele,Centre-Forward,26,60,50,10, LaLiga,Barcelona, Ligue 1,PSG,288230,France,France,Both,178,23/24,0,11
+171,Matheus Cunha,Centre-Forward,24,25,50,-25, LaLiga,Atlético, Premier League,Wolves,517894,Brazil,Brazil,Right,183,23/24,0,43
+172,Jules Kounde,Right-Back,23,60,50,10, LaLiga,Sevilla FC, LaLiga,Barcelona,411975,France,France,Right,180,22/23,0,24
+173,Mauro Icardi,Centre-Forward,27,60,50,10, Serie A,Inter, Ligue 1,PSG,68863,Argentina,Argentina,Right,181,20/21,0,36
+174,Thomas Partey,Defensive Midfield,27,40,50,-10, LaLiga,Atlético, Premier League,Arsenal,230784,Ghana,Ghana,Right,185,20/21,1,32
+175,Eder Militao,Centre-Back,21,50,50,0, Liga NOS,Porto, LaLiga,Real Madrid,401530,Brazil,Brazil,Right,186,19/20,1,53
+176,Sebastien Haller,Centre-Forward,25,40,50,-10, Bundesliga,Frankfurt, Premier League,West Ham,181375,Cote d'Ivoire,France,Right,191,19/20,0,24
+177,Hirving Lozano,Left Winger,24,40,50,-10, Eredivisie,PSV, Serie A,Napoli,316889,Mexico,Mexico,Right,175,19/20,0,46
+178,Bernardo Silva,Attacking Midfield,22,40,50,-10, Ligue 1,Monaco, Premier League,Man City,241641,Portugal,Portugal,Left,173,17/18,0,36
+179,Alex Teixeira,Attacking Midfield,26,30,50,-20, Premier Liga,Shakhtar D., Super League,JS Suning,66515,Brazil,Brazil,Right,173,15/16,0,36
+180,Jorgen Strand Larsen,Centre-Forward,26,40,49.7,-9.7, Premier League,Wolves, Premier League,Crystal Palace,429983,Norway,Norway,Right,193,25/26,0,42
+181,Rafael Leao,Left Winger,20,15,49.5,-34.5, Ligue 1,Lille, Serie A,AC Milan,357164,Portugal,Portugal,Right,188,19/20,0,48
+182,David Luiz,Centre-Back,27,26,49.5,-23.5, Premier League,Chelsea, Ligue 1,PSG,46741,Brazil,Brazil,Right,189,14/15,0,36
+183,Gylfi Sigurdsson,Attacking Midfield,27,25,49.4,-24.4, Premier League,Swansea, Premier League,Everton,90466,Iceland,Iceland,Right,186,17/18,0,34
+184,Kalvin Phillips,Defensive Midfield,26,50,49,1, Premier League,Leeds, Premier League,Man City,351749,England,England,Right,179,22/23,0,24
+185,Luis Diaz,Left Winger,25,40,49,-9, Liga Portugal,Porto, Premier League,Liverpool,480692,Colombia,Colombia,Right,180,21/22,0,30
+186,Leroy Sane,Right Winger,24,80,49,31, Premier League,Man City, Bundesliga,Bayern Munich,192565,Germany,Germany,Left,183,20/21,0,12
+187,Ferland Mendy,Left-Back,24,30,48,-18, Ligue 1,Lyon, LaLiga,Real Madrid,291417,France,France,Left,180,19/20,0,36
+189,Endrick,Centre-Forward,18,60,47.5,12.5, Série A,Palmeiras, LaLiga,Real Madrid,971570,Brazil,Brazil,Right,173,24/25,1,18
+190,Max Kilman,Centre-Back,27,32,47.5,-15.5, Premier League,Wolves, Premier League,West Ham,525247,England,England,Left,194,24/25,0,12
+191,Matheus Nunes,Right-Back,23,35,47.4,-12.4, Liga Portugal,Sporting, Premier League,Wolves,601883,Portugal,Brazil,Right,183,22/23,0,36
+192,Cole Palmer,Attacking Midfield,21,18,47,-29, Premier League,Man City, Premier League,Chelsea,568177,England,England,Left,182,23/24,0,33
+193,Mesut Ozil,Attacking Midfield,24,40,47,-7, LaLiga,Real Madrid, Premier League,Arsenal,35664,Germany,Germany,Left,180,13/14,0,36
+194,Milos Kerkez,Left-Back,21,45,46.9,-1.9, Premier League,Bournemouth, Premier League,Liverpool,730861,Hungary,Serbia and Montenegro,Left,180,25/26,0,30
+195,Bremer,Centre-Back,25,35,46.9,-11.9, Serie A,Torino, Serie A,Juventus,516716,Brazil,Brazil,Right,188,22/23,0,12
+196,Georginio Rutter,Centre-Forward,22,18,46.7,-28.7, Championship,Leeds, Premier League,Brighton,538977,France,France,Left,182,24/25,0,40
+197,Fabinho,Defensive Midfield,29,42,46.7,-4.7, Premier League,Liverpool, Saudi Pro League,Al-Ittihad,163058,Brazil,Brazil,Left,178,23/24,0,35
+198,Christian Benteke,Centre-Forward,24,20,46.5,-26.5, Premier League,Aston Villa, Premier League,Liverpool,50201,Belgium,Zaire,Right,190,15/16,0,24
+200,James Maddison,Attacking Midfield,26,60,46.3,13.7, Championship,Leicester, Premier League,Tottenham,294057,England,England,Right,175,23/24,0,12
+201,Alejandro Garnacho,Left Winger,21,45,46.2,-1.2, Premier League,Man Utd, Premier League,Chelsea,811779,Argentina,Spain,Right,180,25/26,0,33
+203,Anthony Gordon,Left Winger,21,40,45.6,-5.6, Premier League,Everton, Premier League,Newcastle,503733,England,England,Right,182,22/23,0,18
+204,Nathan Ake,Centre-Back,25,28,45.3,-17.3, Championship,Bournemouth, Premier League,Man City,177476,Netherlands,Netherlands,Left,180,20/21,0,24
+205,Jacob Ramsey,Central Midfield,24,32,45.15,-13.15, Premier League,Aston Villa, Premier League,Newcastle,503749,England,England,Right,180,25/26,0,24
+206,Estevao,Right Winger,18,60,45,15, Série A,Palmeiras, Premier League,Chelsea,1056993,Brazil,Brazil,Left,178,25/26,0,14
+207,Franco Mastantuono,Right Winger,18,30,45,-15, Torneo Clausura,River Plate, LaLiga,Real Madrid,1057316,Argentina,Argentina,Left,180,25/26,1,18
+208,Matthijs de Ligt,Centre-Back,25,65,45,20, Bundesliga,Bayern Munich, Premier League,Man Utd,326031,Netherlands,Netherlands,Right,189,24/25,0,36
+209,Riccardo Calafiori,Left-Back,22,45,45,0, Serie A,Bologna, Premier League,Arsenal,502821,Italy,Italy,Left,188,24/25,0,12
+210,Lucas Hernandez,Left-Back,27,45,45,0, Bundesliga,Bayern Munich, Ligue 1,PSG,281963,France,France,Left,184,23/24,0,12
+211,Marco Verratti,Central Midfield,30,40,45,-5, Ligue 1,PSG, Stars League,Al-Arabi SC,102558,Italy,Italy,Right,165,23/24,0,34
+212,Axel Disasi,Centre-Back,25,30,45,-15, Ligue 1,Monaco, Premier League,Chelsea,386047,France,France,Right,190,23/24,0,24
+213,Bradley Barcola,Left Winger,21,18,45,-27, Ligue 1,Lyon, Ligue 1,PSG,708265,France,France,Right,186,23/24,0,34
+214,Robert Lewandowski,Centre-Forward,33,45,45,0, Bundesliga,Bayern Munich, LaLiga,Barcelona,38253,Poland,Poland,Right,185,22/23,0,12
+215,Rodrygo,Right Winger,18,40,45,-5, Série A,Santos, LaLiga,Real Madrid,412363,Brazil,Brazil,Right,174,19/20,1,36
+216,Youri Tielemans,Central Midfield,22,38,45,-7, Ligue 1,Monaco, Premier League,Leicester,249565,Belgium,Belgium,Right,176,19/20,0,18
+217,Mateo Kovacic,Central Midfield,25,35,45,-10, LaLiga,Real Madrid, Premier League,Chelsea,51471,Croatia,Austria,Right,177,19/20,0,24
+218,Fabinho,Defensive Midfield,24,45,45,0, Ligue 1,Monaco, Premier League,Liverpool,163058,Brazil,Brazil,Left,178,18/19,0,13
+219,Vinicius Junior,Left Winger,18,35,45,-10, Série A,Flamengo, LaLiga,Real Madrid,371998,Brazil,Brazil,Right,176,18/19,1,14
+220,Granit Xhaka,Defensive Midfield,23,35,45,-10, Bundesliga,Mönchengladbach, Premier League,Arsenal,111455,Switzerland,Switzerland,Left,186,16/17,0,48
+221,Eliaquim Mangala,Centre-Back,23,28,45,-17, Liga NOS,Porto, Premier League,Man City,90681,France,France,Left,187,14/15,0,36
+222,James Rodriguez,Attacking Midfield,21,23,45,-22, Liga ZON Sagres,Porto, Ligue 1,Monaco,88103,Colombia,Colombia,Left,181,13/14,0,36
+225,Joao Mario,Attacking Midfield,23,30,44.78,-14.78, Liga NOS,Sporting, Serie A,Inter,227436,Guinea-Bissau,Guinea-Bissau,Left,185,16/17,0,46
+226,Juan Mata,Attacking Midfield,25,38,44.73,-6.73, Premier League,Chelsea, Premier League,Man Utd,44068,Spain,Spain,Left,170,13/14,0,30
+227,Diogo Jota,Left Winger,23,28,44.7,-16.7, Premier League,Wolves, Premier League,Liverpool,340950,Portugal,Portugal,Right,178,20/21,0,36
+228,Nemanja Matic,Defensive Midfield,29,35,44.7,-9.7, Premier League,Chelsea, Premier League,Man Utd,74683,Serbia,Serbia,Right,195,17/18,0,24
+229,Federico Chiesa,Right Winger,24,65,44.6,20.4, Serie A,Fiorentina, Serie A,Juventus,341092,Italy,Italy,Right,175,22/23,0,20
+230,Ian Maatsen,Left-Back,22,40,44.5,-4.5, Premier League,Chelsea, Premier League,Aston Villa,485585,Netherlands,Netherlands,Left,167,24/25,0,24
+231,Nicolas Otamendi,Centre-Back,27,25,44.5,-19.5, LaLiga,Valencia, Premier League,Man City,54781,Argentina,Argentina,Right,183,15/16,0,48
+232,Enzo Fernandez,Central Midfield,21,15,44.25,-29.25, Liga Profesional,River Plate, Liga Portugal,Benfica,648195,Argentina,Argentina,Right,178,22/23,0,24
+233,Jorrel Hato,Left-Back,19,35,44.18,-9.18, Eredivisie,Ajax, Premier League,Chelsea,904802,Netherlands,Netherlands,Left,182,25/26,0,35
+234,Mateus Fernandes,Central Midfield,21,15,44,-29, Championship,Southampton, Premier League,West Ham,880245,Portugal,Portugal,Right,178,25/26,0,12
+235,Harvey Barnes,Left Winger,25,35,44,-9, Championship,Leicester, Premier League,Newcastle,398065,England,England,Right,182,23/24,0,23
+237,Joelinton,Central Midfield,22,35,43.5,-8.5, Bundesliga,Hoffenheim, Premier League,Newcastle,333241,Brazil,Brazil,Right,186,19/20,0,24
+238,Omari Hutchinson,Attacking Midfield,21,22,43.4,-21.4, Championship,Ipswich, Premier League,Nott'm Forest,741238,Jamaica,England,Left,174,25/26,0,46
+239,Mohammed Kudus,Right Winger,23,40,43,-3, Eredivisie,Ajax, Premier League,West Ham,543499,Ghana,Ghana,Left,177,23/24,0,22
+240,Achraf Hakimi,Right-Back,21,54,43,11, LaLiga,Real Madrid, Serie A,Inter,398073,Morocco,Spain,Right,181,20/21,0,24
+241,Julian Draxler,Left Winger,21,22,43,-21, Bundesliga,FC Schalke 04, Bundesliga,Wolfsburg,85148,Germany,Germany,Right,185,15/16,0,36
+242,Radamel Falcao,Centre-Forward,27,60,43,17, LaLiga,Atlético, Ligue 1,Monaco,39152,Colombia,Colombia,Right,177,13/14,0,25
+243,Robinho,Left Winger,24,34,43,-9, LaLiga,Real Madrid, Premier League,Man City,15511,Brazil,Brazil,Right,172,09 10,0,24
+244,Lucas Paqueta,Attacking Midfield,25,35,42.95,-7.95, Ligue 1,Lyon, Premier League,West Ham,444523,Brazil,Brazil,Left,180,22/23,0,36
+245,Dango Ouattara,Right Winger,23,28,42.8,-14.8, Premier League,Bournemouth, Premier League,Brentford,823231,Burkina Faso,Burkina Faso,Left,177,25/26,0,36
+247,Joshua Zirkzee,Centre-Forward,23,50,42.5,7.5, Serie A,Bologna, Premier League,Man Utd,435648,Netherlands,Netherlands,Right,193,24/25,0,24
+248,Dayot Upamecano,Centre-Back,22,60,42.5,17.5, Bundesliga,Leipzig, Bundesliga,Bayern Munich,344695,France,France,Right,186,21/22,1,12
+249,Alexis Sanchez,Centre-Forward,25,30,42.5,-12.5, LaLiga,Barcelona, Premier League,Arsenal,40433,Chile,Chile,Right,169,14/15,0,23
+250,Bruno Guimaraes,Central Midfield,24,30,42.1,-12.1, Ligue 1,Lyon, Premier League,Newcastle,520624,Brazil,Brazil,Right,182,21/22,0,30
